@@ -4,7 +4,7 @@ import requests, zipfile, io
 import pandas as pd
 import os
 
-#%%
+# %%
 URL = "https://archive.ics.uci.edu/ml/machine-learning-databases/00228/smsspamcollection.zip"
 RANDOM = 123
 DATA_PATH = os.path.join(os.getcwd(), 'data')
