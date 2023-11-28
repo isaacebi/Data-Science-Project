@@ -3,8 +3,8 @@ Welcome to the Credit Card Fraud Detection project! This repo contains the ongoi
 
 ## Table of Contents
 
-- [Introduction](##Introduction)
-- [Dataset](##Dataset)
+- [Introduction](#introduction)
+- [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
