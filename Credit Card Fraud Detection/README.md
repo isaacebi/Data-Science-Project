@@ -38,5 +38,5 @@ This project is developed using Python version 3.8.13 and relies on several esse
 - **Seaborn:** 0.11.2
 - **Scikit-learn:** 1.0.2
 
-To ensure compatibility and replicate the development environment, it is recommended to install these packages with the specified versions. You can install them using the provided [requirements.txt](https://github.com/isaacebi/Data-Science-Project/blob/main/3.%20Credit%20Card%20Fraud%20Detection/requirements.txt) file. If you encounter any issues or have specific requirements, feel free to modify the versions as needed.
+To ensure compatibility and replicate the development environment, it is recommended to install these packages with the specified versions. You can install them using the provided [requirements.txt](https://github.com/isaacebi/Data-Science-Project/blob/main/%20Credit%20Card%20Fraud%20Detection/requirements.txt) file. If you encounter any issues or have specific requirements, feel free to modify the versions as needed.
 
