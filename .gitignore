@@ -1,6 +1,7 @@
 
 Credit Card Fraud Detection/datasets/creditcard.csv
 Credit Card Fraud Detection\.ipynb_checkpoints
-*.ipynb
 Car Insurance Cold Calls/data/carInsurance_test.csv
 Car Insurance Cold Calls/data/carInsurance_train.csv
+Car Insurance Cold Calls/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+Car Insurance Cold Calls/.ipynb_checkpoints/preprocessing-checkpoint.ipynb
